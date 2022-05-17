@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from ANGEL.filters import command, other_filters
 from ANGEL.decorators import sudo_users_only, errors
 
-downloads = os.path.realpath("NIXA/downloads")
+downloads = os.path.realpath("ANGEL/downloads")
 raw = os.path.realpath(".")
 
 @Client.on_message(command(["rmd", "clear"]) & ~filters.edited)
