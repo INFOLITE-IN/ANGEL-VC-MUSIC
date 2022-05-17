@@ -1,7 +1,7 @@
 {
     "name": "ANGEL VC MUSIC",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Nixa", "ANGEL-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
+    "keywords": ["ANGEL", "ANGEL-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
     "logo":"https://telegra.ph/file/3eaa696690c2910facd2a.jpg",
     "repository": "https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC",
   "stack": "container",
