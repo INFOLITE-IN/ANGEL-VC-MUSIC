@@ -106,7 +106,7 @@ async def generate_cover(thumbnail, title, userid, ctitle):
                 await f.write(await resp.read())
                 await f.close()
     image1 = Image.open(f"thumb{userid}.png")
-    image2 = Image.open("Process/ImageFont/Nixa.png")
+    image2 = Image.open("Process/ImageFont/ANGEL.png")
     image3 = changeImageSize(1280, 720, image1)
     image4 = changeImageSize(1280, 720, image2)
     image5 = image3.convert("RGBA")
@@ -203,7 +203,7 @@ async def play(c: Client, m: Message):
                 )
     if replied:
         if replied.audio or replied.voice:
-            suhu = await replied.reply("📥 **song varum wait pannu...**")
+            suhu = await replied.reply("📥 **song varum wait...**")
             dl = await replied.download()
             link = replied.link
             if replied.audio:
