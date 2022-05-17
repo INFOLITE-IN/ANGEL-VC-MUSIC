@@ -13,7 +13,7 @@ bot = Client(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins={"root": "NIXA.Player"},
+    plugins={"root": "ANGEL.Player"},
 )
 
 BOT = TelegramClient('BOT', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
