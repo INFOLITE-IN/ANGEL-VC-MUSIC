@@ -1,7 +1,7 @@
 import asyncio
 from os import path
 
-from NIXA.errors import FFmpegReturnCodeError
+from ANGEL.errors import FFmpegReturnCodeError
 
 
 async def convert(file_path: str) -> str:
