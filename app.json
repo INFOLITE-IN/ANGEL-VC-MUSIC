@@ -1,0 +1,78 @@
+{
+    "name": "ANGEL VC MUSIC",
+    "description": "Music allow you to stream music trought the telegram voice chat feature.",
+    "keywords": ["Nixa", "ANGEL-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
+    "logo":"https://telegra.ph/file/3eaa696690c2910facd2a.jpg",
+    "repository": "https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC",
+  "stack": "container",
+    "env": {
+        "SESSION_NAME": {
+            "description": "fill with the pyrogram session string from account",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "fill with your telegram id as the owner of the bot",
+            "required": true,
+            "value": ""
+        },
+        "BOT_USERNAME": {
+            "description": "fill with telegram id of account",
+            "required": true,
+            "value": ""
+        },
+        "API_ID": {
+            "description": "your Api ID from my.telegram.org/apps",
+            "required": true,
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "your Api Hash from my.telegram.org/apps",
+            "required": false,
+            "value": ""
+        },
+        "GROUP_SUPPORT": {
+            "description": "Ur Support Group Username",
+            "required": false,
+            "value": ""
+        },
+        "UPDATES_CHANNEL": {
+            "description": "Ur Updates Channel",
+            "required": false,
+            "value": "social_mechanic"
+        },
+        "SUDO_USERS": {
+            "description": "fill with the user id who can access all function in your bot (separate with space).",
+            "required": true,
+            "value": "5381110836"
+        },
+        "DURATION_LIMIT": {
+            "description": "filled, don't change this !",
+            "required": true,
+            "value": "540000"
+        },
+        "BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }
+
+    },
+  "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+      "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "free"
+          }
+      },
+      "stack": "container"
+  }
