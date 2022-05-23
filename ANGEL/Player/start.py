@@ -38,8 +38,8 @@ async def start_(client: Client, message: Message):
         photo=f"{START_PIC}",
         caption=f"""**ʜᴇʏ ɢᴜʏꜱ 
 ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ Qᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.
-ᴀɴᴅ ᴛʜɪꜱ ᴍᴜꜱɪᴄ + ꜱᴘᴀᴍ + ᴠᴄʀᴀɪᴅ ʙᴏᴛ ꜱᴍᴀꜱʜ ᴛʜᴇᴍ ᴏꜰ ᴀʟʟ ꜱᴇʀᴠᴇʀ ᴏꜰ ᴍᴜꜱɪᴄ ʙᴏᴛ ᴀꜱꜱ..
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ [social mechanic](t.me/Social_mechanic)
+..
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ [SOCIAL MECHANIC](t.me/Social_mechanic)
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
