@@ -261,7 +261,7 @@ async def play(c: Client, m: Message):
             )
         else:
             suhu = await m.reply_text(
-        f"**ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ**\n\n0% Enna Gopi intha song ellam venuma 100%"
+        f"Enna Gopi intha song ellam venuma"
     )
             query = m.text.split(None, 1)[1]
             search = ytsearch(query)
