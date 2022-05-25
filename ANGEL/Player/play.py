@@ -203,7 +203,7 @@ async def play(c: Client, m: Message):
                 )
     if replied:
         if replied.audio or replied.voice:
-            suhu = await replied.reply("📥 **song varum wait...**")
+            suhu = await replied.reply("📥 **ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴀᴜᴅɪᴏ...**")
             dl = await replied.download()
             link = replied.link
             if replied.audio:
@@ -296,7 +296,7 @@ async def play(c: Client, m: Message):
                     else:
                         try:
                             await suhu.edit(
-                            f"**ᴅᴏᴡɴʟᴏᴀᴅᴇʀ**\n\n**ᴛɪᴛʟᴇ**: {title[:22]}\n\n100% mooditu erru varum100%\n\n**ᴛɪᴍᴇ ᴛᴀᴋᴇɴ**: 00:00 Seconds\n\n**ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴀᴜᴅɪᴏ[ғғᴍᴘᴇɢ ᴘʀᴏᴄᴇss]**"
+                            f"**ᴅᴏᴡɴʟᴏᴀᴅᴇʀ**\n\n**ᴛɪᴛʟᴇ**: {title[:22]}\n\n100%▓▓▓▓▓▓▓▓▓▓▓▓100%\n\n**ᴛɪᴍᴇ ᴛᴀᴋᴇɴ**: 00:00 Seconds\n\n**ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴀᴜᴅɪᴏ[ғғᴍᴘᴇɢ ᴘʀᴏᴄᴇss]**"
                         )
                             await call_py.join_group_call(
                                 chat_id,
