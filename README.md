@@ -34,7 +34,7 @@ to get pyrogram string session
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC)
 
 ### Deploy To ʀᴀɪʟᴡᴀʏ
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC)
 
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
 # [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
