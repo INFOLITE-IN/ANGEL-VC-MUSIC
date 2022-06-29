@@ -36,6 +36,11 @@ to get pyrogram string session
 ### Deploy To ʀᴀɪʟᴡᴀʏ
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC)
 
+## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
+
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a>
+ 
+
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
 # [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
 
