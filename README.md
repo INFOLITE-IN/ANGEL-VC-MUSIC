@@ -2,7 +2,7 @@
 ᴀɴɢᴇʟ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...     
  ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★              [SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
 
-<p align="center"><a href="https://t.me/tamil_chat_group_1"><img src="https://telegra.ph/file/6caec29bf58337953a4b4.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/tamil_chat_group_1"><img src="https://telegra.ph/file/3eaa696690c2910facd2a.jpg" width="300" hight="500"></a></p>
 
 
 
