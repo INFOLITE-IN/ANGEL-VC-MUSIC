@@ -17,24 +17,20 @@
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
-- `/play` - reply to youtube url or song file to play song
-- `/play <song name>` - play song you requested
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
+|`/play`  |  reply to youtube url or song file to play song|
+|---------| ----------
+| `/play`  | <song name>  play song you requested|
+| `/song`  | <song name>  download songs you want quickly|
+| `/search`| <query>  search videos on youtube with details|
 
 #### ᴀᴅᴍɪɴs ᴏɴʟʏ
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
 
+| `/pause`  |  pause song play   |
+| -------   | ------------------ |
+| `/resume` | resume song play   |
+|  `/skip`  |  play next song    |
+|  `/end`   | stop music play    |
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SOCIAL-MECHANIC-1997/getStringName#main.py) 
