@@ -32,18 +32,25 @@
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SOCIAL-MECHANIC-1997/getStringName#main.py) 
 to get pyrogram string session
 
+<details>
 
-### Deploy To Heroku
+<summary>  Deploy To Heroku </summary>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC)
 
-### Deploy To ʀᴀɪʟᴡᴀʏ
+</details>
+<details>
+<summary>  Deploy To ʀᴀɪʟᴡᴀʏ </summary>
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC)
 
-## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
+</details>
+<details>
+<summary>  ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ </summary>
 
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a>
  
+</details>
 
 ## ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
  [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
