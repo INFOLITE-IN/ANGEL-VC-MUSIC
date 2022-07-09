@@ -59,3 +59,6 @@ to get pyrogram string session
 
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
+
+# CONTRIBUTING
+- [CONTRIBUTING](CONTRIBUTING.md)
