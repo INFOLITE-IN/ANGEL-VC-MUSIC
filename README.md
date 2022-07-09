@@ -1,6 +1,7 @@
 ## ANGEL VC MUSIC
-# ᴀɴɢᴇʟ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...     
- ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★    [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997)
+ ᴀɴɢᴇʟ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...     
+ -----------
+★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★    [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://github.com/SOCIAL-MECHANIC-1997)
 
 |  <p align="center"><a href="https://t.me/social_mechanic_1997"><img src="https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/Process/ImageFont/ANGELS.PNG" style="max-hight: 100%;"></a></p> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:                                                                                  |
@@ -32,6 +33,7 @@
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SOCIAL-MECHANIC-1997/getStringName#main.py) 
 to get pyrogram string session
 
+# DEPLOYMENT
 <details>
 
 <summary>  Deploy To Heroku </summary>
@@ -52,10 +54,8 @@ to get pyrogram string session
  
 </details>
 
-
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ: 
-- [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://github.com/SOCIAL-MECHANIC-1997) 
-
+[🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/SOCIAL-MECHANIC-1997) 
 # ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
 
 - [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
@@ -63,9 +63,7 @@ to get pyrogram string session
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
 
 - LICENSE : [LICENSE](LICENSE)
-
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
-
 # CONTRIBUTING
 - [CONTRIBUTING](CONTRIBUTING.md)
