@@ -1,6 +1,6 @@
-# ANGEL VC MUSIC
+## ANGEL VC MUSIC
 ᴀɴɢᴇʟ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...     
- ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★              [SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
+ ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★    [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997)
 
 |  <p align="center"><a href="https://t.me/social_mechanic_1997"><img src="https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/Process/ImageFont/ANGELS.PNG" style="max-hight: 100%;"></a></p> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:                                                                                  |
@@ -13,8 +13,8 @@
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
-|`/play`  |  reply to youtube url or song file to play song|
-|---------| ----------
+|`/play`   |  reply to youtube url or song file to play song|
+|--------- | ----------
 | `/play`  | <song name>  play song you requested|
 | `/song`  | <song name>  download songs you want quickly|
 | `/search`| <query>  search videos on youtube with details|
@@ -52,14 +52,15 @@ to get pyrogram string session
  
 </details>
 
-## ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
- [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
+
+# ᴄʀᴇᴀᴛᴇᴅ ʙʏ: 
+- [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://github.com/SOCIAL-MECHANIC-1997) 
 
 # ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
+
 - [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
 - [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
-
 
 - LICENSE : [LICENSE](LICENSE)
 
