@@ -7,11 +7,6 @@
  [![Telegram](https://img.shields.io/badge/Telegram-Group-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-for-the-badge&logo=Telegram"></a>
 
  
-# LICENSE
- - [LICENSE](LICENSE)
-
-
-
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
 <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
@@ -57,6 +52,9 @@ to get pyrogram string session
 - [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
 - [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
+
+
+- LICENSE : [LICENSE](LICENSE)
 
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
