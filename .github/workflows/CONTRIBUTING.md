@@ -1,14 +1,41 @@
-Contributing
--------------
+# Contributing
 
-First, [fork](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/fork) this repository, checkout it locally and then install project dependencies with Composer - `composer install`.
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-Now make all your changes and test them.
 
-To test the changes you will obviously need a bot, assuming you already have one - put the token and bot username in `.env` file for local development.
+## Development environment setup
 
-The easiest way to test your changes is to run the bot with `getUpdates` method - use `php bin/console loop` command.
+To set up a development environment, please follow these steps:
 
-Make sure your code is following python coding standard - run [python](https://github.com/python) with `composer check-code` command.
+1. Clone the repo
 
-Now when all seems to be good push you changes to a new branch in your fork and then [create a pull request](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/compare) explaining all the changes.
+   ```sh
+   git clone https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC
+   ```
+
+2. Use sensible commit messages
+> If your PR fixes a separate issue number, include it in the commit message
+
+3. Use a sensible number of commit messages as well
+> Your PR should not have 100s of commits
+
+## Issues and feature requests
+
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/TeamYukki/YukkiMusicBot/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+
+Please try to create bug reports that are:
+
+- _Reproducible._ Include steps to reproduce the problem.
+- _Specific._ Include as much detail as possible: which version, what environment, etc.
+- _Unique._ Do not duplicate existing opened issues.
+- _Scoped to a Single Bug._ One bug per report.
+
+**Even better: Submit a pull request with a fix or new feature!**
+
+### How to submit a Pull Request
+
+1. Search our repository for open or closed
+   [Pull Requests](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/pulls)
+   that relate to your submission. You don't want to duplicate effort.
+2. Fork the project
+3. [Open a Pull Request](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/compare?expand=1)
