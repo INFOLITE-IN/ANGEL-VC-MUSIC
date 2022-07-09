@@ -7,7 +7,8 @@
  [![Telegram](https://img.shields.io/badge/Telegram-Group-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-for-the-badge&logo=Telegram"></a>
 
  
-
+# LICENSE
+ - [LICENSE](LICENSE)
 
 
 
