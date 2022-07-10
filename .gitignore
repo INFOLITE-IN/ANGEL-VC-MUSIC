@@ -1,8 +1,10 @@
-*.session
-*.session-journal
 .env
-__pycache__
-.idea
-.vscode
-raw_files
-downloads
+.cache
+ANGELlogs.txt
+.DS_Store
+*.session
+raw_files/
+cache/
+downloads/
+__pycache__/
+*.session-journal
