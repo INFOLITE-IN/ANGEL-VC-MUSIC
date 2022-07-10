@@ -1,6 +1,6 @@
 .env
 .cache
-ANGELlogs.txt
+runtime.txt
 .DS_Store
 *.session
 raw_files/
