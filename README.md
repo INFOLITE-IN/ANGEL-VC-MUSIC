@@ -66,4 +66,4 @@ to get pyrogram string session
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
 # CONTRIBUTING
-- [CONTRIBUTING](CONTRIBUTING.md)
+- [CONTRIBUTING](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/.github/workflows/CONTRIBUTING.md)
