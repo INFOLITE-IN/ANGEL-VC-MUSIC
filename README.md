@@ -14,19 +14,24 @@
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
-|`/play`   |  reply to youtube url or song file to play song|
-|--------- | ----------
-| `/play`  | <song name>  play song you requested|
-| `/song`  | <song name>  download songs you want quickly|
-| `/search`| <query>  search videos on youtube with details|
+`/play`    reply to youtube url or song file to play song
+
+`/play`   <song name>  play song you requested
+
+ `/song`   <song name>  download songs you want quickly
+
+ `/search` <query>  search videos on youtube with details
+
 
 #### ᴀᴅᴍɪɴs ᴏɴʟʏ
 
-| `/pause`  |  pause song play   |
-| -------   | ------------------ |
-| `/resume` | resume song play   |
-|  `/skip`  |  play next song    |
-|  `/end`   | stop music play    |
+``/pause``   pause song play  
+ 
+ `/resume` resume song play   
+
+ `/skip`    play next song    
+
+ `/end`   stop music play    
 
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
@@ -66,26 +71,17 @@ to get pyrogram string session
 
 # VARIABLES 
 
-``` API_ID = Get this value from https://my.telegram.org```
-
-``API_HASH =   Get this value from https://my.telegram.org``
-
-``STRING_SESSION =  A pyrogram String Session``
-
-``BOT_TOKEN =  Get a token from @botFather``
-
-
-``SUDO_USERS = For multiple Users Use Space``
-
-``DURATION_LIMIT =  In Mins (EX :- 60)``
-
-``ASSISTANT_NAME = Fill there Your Assistant Username without @``
-
-``BOT_USERNAME =  fill there Your Bot Username Without @``
-
-``UPDATES_CHANNEL = Support Channel Link if you have any, Leave blank if no support. Your Username must start without @``
-
-``GROUP_SUPPORT = Support Group Link if you have any, Leave blank if no support. Your Username must start without @``
+|API_ID| Get this value from https://my.telegram.org |
+|--------|---------------|
+|API_HASH|  Get this value from https://my.telegram.org|
+|STRING_SESSION| A pyrogram String Session|
+|BOT_TOKEN| Get a token from @botFather|
+|SUDO_USERS| For multiple Users Use Space |
+| DURATION_LIMIT| In Mins (EX :- 5800) |
+| ASSISTANT_NAME| Fill there Your Assistant Username without @ |
+| BOT_USERNAME|  fill there Your Bot Username Without @|
+| UPDATES_CHANNEL| Support Channel Link if you have any, Leave blank if no support. Your Username must start without @ |
+| GROUP_SUPPORT| Support Group Link if you have any, Leave blank if no support. Your Username must start without @ |
 
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
