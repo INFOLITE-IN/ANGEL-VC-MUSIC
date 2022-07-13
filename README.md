@@ -66,13 +66,14 @@ to get pyrogram string session
 
 # VARIABLES 
 
- ``STRING_SESSION =  A pyrogram String Session``
+`` API_ID = Get this value from https://my.telegram.org``
+
+``API_HASH =   Get this value from https://my.telegram.org``
+
+``STRING_SESSION =  A pyrogram String Session``
 
 ``BOT_TOKEN =  Get a token from @botFather``
 
-``API_ID = Get this value from https://my.telegram.org``
-
-``API_HASH =   Get this value from https://my.telegram.org``
 
 ``SUDO_USERS = For multiple Users Use Space``
 
