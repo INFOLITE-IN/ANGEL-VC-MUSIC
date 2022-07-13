@@ -2,8 +2,8 @@ from ANGEL.main import bot
 from pyrogram import filters
 
 
-OWNER = [5381110836]
-sudos = [5381110836]
+OWNER = [5399319389]
+sudos = [5399319389]
 
 @bot.on_message(filters.command("info"))
 def info(_, message):
