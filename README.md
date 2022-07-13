@@ -66,7 +66,7 @@ to get pyrogram string session
 
 # VARIABLES 
 
-`` API_ID = Get this value from https://my.telegram.org``
+``` API_ID = Get this value from https://my.telegram.org```
 
 ``API_HASH =   Get this value from https://my.telegram.org``
 
