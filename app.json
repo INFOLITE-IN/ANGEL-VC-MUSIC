@@ -43,7 +43,7 @@
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5381110836"
+            "value": "5399319389"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
