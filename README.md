@@ -63,6 +63,9 @@ to get pyrogram string session
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
 
 - LICENSE : [LICENSE](LICENSE)
+
+# VARIABLES 
+ - [VARIABLES](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/sample.env)
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
 # CONTRIBUTING
