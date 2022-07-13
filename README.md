@@ -65,7 +65,27 @@ to get pyrogram string session
 - LICENSE : [LICENSE](LICENSE)
 
 # VARIABLES 
- - [VARIABLES](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/sample.env)
+
+ ``STRING_SESSION =  A pyrogram String Session``
+
+``BOT_TOKEN =  Get a token from @botFather``
+
+``API_ID = Get this value from https://my.telegram.org``
+
+``API_HASH =   Get this value from https://my.telegram.org``
+
+``SUDO_USERS = For multiple Users Use Space``
+
+``DURATION_LIMIT =  In Mins (EX :- 60)``
+
+``ASSISTANT_NAME = Fill there Your Assistant Username without @``
+
+``BOT_USERNAME =  fill there Your Bot Username Without @``
+
+``UPDATES_CHANNEL = Support Channel Link if you have any, Leave blank if no support. Your Username must start without @``
+
+``GROUP_SUPPORT = Support Group Link if you have any, Leave blank if no support. Your Username must start without @``
+
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
 # CONTRIBUTING
