@@ -5,4 +5,4 @@ RUN mkdir /app
 COPY . /app/ANGEL
 WORKDIR /app/ANGEL
 
-CMD ["python3", "main.py"]
+CMD python3 main.py
