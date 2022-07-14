@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ANGEL Support
+    url: https://t.me/SOCIAL_MECHANIC
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://social-mechanic-1997.github.io/SOCIAL-MECHANIC/
+    about: Documentation for getting started with bot.
