@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://t.me/social_mechanic_1997"><img src="https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/Process/ImageFont/ANGELS.PNG" style="max-hight: 100%;"></a></p> 
                                                                                
- [![Telegram](https://img.shields.io/badge/Telegram-Group-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-for-the-badge&logo=Telegram"></a>
+ [![Telegram](https://img.shields.io/badge/Telegram-Group-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tamil_chat_group_1)&nbsp;  <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size&logo=Telegram"></a>
 
  
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
