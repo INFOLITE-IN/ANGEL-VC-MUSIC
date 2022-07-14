@@ -93,6 +93,6 @@ python3 main.py # Run the bot
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
 # CONTRIBUTING
-- [CONTRIBUTING](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/.github/workflows/CONTRIBUTING.md)
+- [CONTRIBUTING](https://github.com/SOCIAL-MECHANIC-1997)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
