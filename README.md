@@ -3,8 +3,8 @@
  -----------
 ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★    [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://github.com/SOCIAL-MECHANIC-1997)
 
-|  <p align="center"><a href="https://t.me/social_mechanic_1997"><img src="https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/Process/ImageFont/ANGELS.PNG" style="max-hight: 100%;"></a></p> |
-|:---------------------------------------------------------------------------------------------------------------------------------------:                                                                                  |
+<p align="center"><a href="https://t.me/social_mechanic_1997"><img src="https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/Process/ImageFont/ANGELS.PNG" style="max-hight: 100%;"></a></p> 
+                                                                               
  [![Telegram](https://img.shields.io/badge/Telegram-Group-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-for-the-badge&logo=Telegram"></a>
 
  
@@ -88,18 +88,7 @@ python3 main.py # Run the bot
 - LICENSE : [LICENSE](LICENSE)
 
 # VARIABLES 
-
-|API_ID| Get this value from https://my.telegram.org |
-|--------|---------------|
-|API_HASH|  Get this value from https://my.telegram.org|
-|STRING_SESSION| A pyrogram String Session|
-|BOT_TOKEN| Get a token from @botFather|
-|SUDO_USERS| For multiple Users Use Space |
-| DURATION_LIMIT| In Mins (EX :- 5800) |
-| ASSISTANT_NAME| Fill there Your Assistant Username without @ |
-| BOT_USERNAME|  fill there Your Bot Username Without @|
-| UPDATES_CHANNEL| Support Channel Link if you have any, Leave blank if no support. Your Username must start without @ |
-| GROUP_SUPPORT| Support Group Link if you have any, Leave blank if no support. Your Username must start without @ |
+- [VARIABLES](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/sample.env)
 
 # SECURITY POLICY
  - [SECURITY POLICY](SECURITY.md)
