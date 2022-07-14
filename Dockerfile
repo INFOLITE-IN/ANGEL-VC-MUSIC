@@ -1,11 +1,8 @@
-FROM python:3.9.7-slim-buster
-RUN apt-get update && apt-get upgrade -y
-RUN apt-get install git curl python3-pip ffmpeg -y
-RUN pip3 install -U pip
-RUN curl -sL https://deb.nodesource.com/setup_16.x | bash -
-RUN apt-get install -y nodejs
-RUN npm i -g npm
+COPY requirements.txt /requirements.txt
+RUN cd /
+RUN pip3 install -U pip && pip3 install -U -r requirements.txt
+RUN mkdir /app
 COPY . /app/ANGEL
 WORKDIR /app/ANGEL
-RUN pip3 install -U -r requirements.txt
-CMD python3 main.py
+
+CMD ["python3", "main.py"]
