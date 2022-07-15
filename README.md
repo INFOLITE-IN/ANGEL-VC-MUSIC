@@ -59,7 +59,23 @@ to get pyrogram string session
  
 </details>
 
+## <b> 📡 Deploy On VPS </b>
 
+
+sudo apt update && apt upgrade -y
+sudo apt install git curl python3-pip ffmpeg -y
+pip3 install -U pip
+curl -sL https://deb.nodesource.com/setup_16.x | bash -
+sudo apt-get install -y nodejs
+npm i -g npm
+git clone https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC # Clone your repo.
+cd robot
+pip3 install -U -r requirements.txt
+cp example.env .env #Use vim to edit ENVs
+vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
+python3 main.py # Run the bot
+
+<br>
 
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ: 
 [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/SOCIAL-MECHANIC-1997) 
