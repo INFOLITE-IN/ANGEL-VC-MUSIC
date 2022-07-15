@@ -91,7 +91,7 @@ python3 main.py # Run the bot
 - [VARIABLES](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/sample.env)
 
 # SECURITY POLICY
- - [SECURITY POLICY](SECURITY.md)
+ - [SECURITY POLICY](https://github.com/SOCIAL-MECHANIC-1997/ANGEL-VC-MUSIC/blob/main/.github/workflows/SECURITY.md)
 # CONTRIBUTING
 - [CONTRIBUTING](https://github.com/SOCIAL-MECHANIC-1997)
 
