@@ -97,6 +97,6 @@ packages
 node
 repo
 installation
-pprint "\n\n\n\n\nNixa Music Bot Installation Completed!" "cgreen"
+pprint "\n\n\n\n\nANGEL Music Bot Installation Completed!" "cgreen"
 sleep 4
 clear
