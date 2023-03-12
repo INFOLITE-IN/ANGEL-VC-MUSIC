@@ -1,4 +1,4 @@
-class DurationLimitError(Exception):
+ class DurationLimitError(Exception):
     pass
 class FFmpegReturnCodeError(Exception):
     pass
