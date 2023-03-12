@@ -1,4 +1,4 @@
-""" inline section button """
+ """ inline section button """
 
 from pyrogram.types import (
   CallbackQuery,
